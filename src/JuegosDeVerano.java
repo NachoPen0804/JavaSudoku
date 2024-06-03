@@ -4,7 +4,7 @@ import org.apache.logging.log4j.Logger;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class JuegoDeVerano {
+public class JuegosDeVerano {
 
     // Clase la cual llamara a los juegos que hagamos
     static Scanner sc = new Scanner(System.in);
